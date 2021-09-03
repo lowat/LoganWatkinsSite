@@ -1,0 +1,40 @@
+
+body{
+  background: #92c895;
+  border: none;
+  margin:0;
+
+padding:0;
+}
+
+.name{
+    font-family: Garamond, serif;
+    text-align: center;
+    color: #92c895;
+    word-spacing: 100vw;
+     padding: 70px 0;
+
+}
+.name2{
+    font-family: Garamond, serif;
+    text-align: center;
+    color: #d4ffd8;
+    word-spacing: 100vw;
+    padding: 70px 0;
+}
+
+.div-left {
+  float: left;
+  width: 25%;
+  height: 50%;
+  background: #d4ffd8;
+}
+
+
+.div-right {
+  float: left;
+  width: 25%;
+  height: 50%;
+  background: #92c895;
+
+}
